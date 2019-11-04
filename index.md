@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## USANDO O PADRÃO NESMA FPA COM O COCOMO II PARA DIMENSIONAMENTO DO ESFORÇO DE DESENVOLVIMENTO DE SOFTWARE
 
-You can use the [editor on GitHub](https://github.com/ramoncunha/telas-sgc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Página criada com o objetivo de expor a prototipação das telas do Sistema de Gerenciamento de Compras, esse sistema foi utilizado para realizar a contagem de pontos de função usando o modelo NESMA/FPA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A prototipação do sistema utilizado no artigo desenvolvido pelos alunos de graduação do curso de Sistemas de Informação da Faculdade Metodis Granbery estão abaixo:
 
 ### Markdown
 
