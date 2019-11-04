@@ -4,34 +4,23 @@ Página criada com o objetivo de expor a prototipação das telas do Sistema de 
 
 A prototipação do sistema utilizado no artigo desenvolvido pelos alunos de graduação do curso de Sistemas de Informação da Faculdade Metodista Granbery estão abaixo:
 
-### Markdown
+### Menu
+![Image](images/novo_menu.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Produto
+![Image](images/cadastro_produto.png)
+![Image](images/consultar_produtos.png)
 
-```markdown
-Syntax highlighted code block
+### Cliente
+![Image](images/cadastro_clientes.png)
+![Image](images/pesquisar_clientes.png)
+![Image](images/relatorio-clientes.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Pedido
+![Image](images/cadastro_de_pedidos_1.png)
+![Image](images/relatorio_de_pedidos.png)
+![Image](images/relatorio_de_pedidos.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramoncunha/telas-sgc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Usuario
+![Image](images/relatorio_de_usurios_cadastrados.png)
+![Image](images/relatorio_de_expirao_de_senhas.png)
