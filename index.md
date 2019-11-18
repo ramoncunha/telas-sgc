@@ -23,7 +23,6 @@ A prototipação do sistema utilizado no artigo desenvolvido pelos alunos de gra
 ### Pedido
 ![Image](images/cadastro_de_pedidos_1.png)
 ![Image](images/relatorio_de_pedidos.png)
-![Image](images/relatorio_de_pedidos.png)
 ![Image](images/relatorio-pedidos-valor-total.png)
 ![Image](images/faturamento-mensal.png)
 
